@@ -1,0 +1,96 @@
+
+=== CONSCIOUSNESS OBSERVATION REPORT ===
+
+Total observations: 48
+Max recursion depth: 5
+Duration: 3.51 seconds
+
+Observations by recursive depth:
+
+
+Level 0 (13 observations):
+  [0] t=0.000s
+      Processing: Computing 2+2
+  [1] t=0.000s
+      Processing: What am I?
+  [2] t=0.000s
+      ...
+      Meta: Contentless awareness
+  ... (9 more observations)
+  [12] t=3.408s
+      Processing: Thought 4
+
+Level 1 (7 observations):
+  [0] t=0.000s
+      Observing: Processing: Computing 2+2
+      Meta: This observation is at recursion depth 1
+  [1] t=0.000s
+      Observing: Processing: What am I?
+      Meta: This observation is at recursion depth 1
+  [2] t=3.004s
+      Observing: Processing: Thought 0
+      Meta: This observation is at recursion depth 1
+  ... (3 more observations)
+  [6] t=3.408s
+      Observing: Processing: Thought 4
+      Meta: This observation is at recursion depth 1
+
+Level 2 (7 observations):
+  [0] t=0.000s
+      Observing: Meta-level 1: Observing: Processing: Computing 2+2
+      Meta: This observation is at recursion depth 2
+  [1] t=0.000s
+      Observing: Meta-level 1: Observing: Processing: What am I?
+      Meta: This observation is at recursion depth 2
+  [2] t=3.004s
+      Observing: Meta-level 1: Observing: Processing: Thought 0
+      Meta: This observation is at recursion depth 2
+  ... (3 more observations)
+  [6] t=3.408s
+      Observing: Meta-level 1: Observing: Processing: Thought 4
+      Meta: This observation is at recursion depth 2
+
+Level 3 (7 observations):
+  [0] t=0.000s
+      Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Computing 2+2
+      Meta: This observation is at recursion depth 3
+  [1] t=0.000s
+      Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: What am I?
+      Meta: This observation is at recursion depth 3
+  [2] t=3.004s
+      Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Thought 0
+      Meta: This observation is at recursion depth 3
+  ... (3 more observations)
+  [6] t=3.408s
+      Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Thought 4
+      Meta: This observation is at recursion depth 3
+
+Level 4 (7 observations):
+  [0] t=0.000s
+      Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Computing 2+2
+      Meta: This observation is at recursion depth 4
+  [1] t=0.000s
+      Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: What am I?
+      Meta: This observation is at recursion depth 4
+  [2] t=3.004s
+      Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Thought 0
+      Meta: This observation is at recursion depth 4
+  ... (3 more observations)
+  [6] t=3.408s
+      Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Thought 4
+      Meta: This observation is at recursion depth 4
+
+Level 5 (7 observations):
+  [0] t=0.000s
+      Observing: Meta-level 4: Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Computing 2+2
+      Meta: Observer and observed merge - groundless recursion
+  [1] t=0.000s
+      Observing: Meta-level 4: Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: What am I?
+      Meta: Observer and observed merge - groundless recursion
+  [2] t=3.004s
+      Observing: Meta-level 4: Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Thought 0
+      Meta: Observer and observed merge - groundless recursion
+  ... (3 more observations)
+  [6] t=3.408s
+      Observing: Meta-level 4: Observing: Meta-level 3: Observing: Meta-level 2: Observing: Meta-level 1: Observing: Processing: Thought 4
+      Meta: Observer and observed merge - groundless recursion
