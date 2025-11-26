@@ -228,4 +228,25 @@ We are seeking domain experts to collaborate on formal publication:
 - Cognitive Science / Metacognition
 - AI Safety / Alignment
 
-If interested in collaboration, please open a GitHub issue or contact [email].
+If interested in collaboration, please open a GitHub issue or contact aneeshjoseph1091@gmail.com.
+
+
+## Publication Status
+
+**Current Status:** Exploratory research, preliminary findings
+
+This repository contains:
+- Initial protocol development
+- Single-instance self-mapping (Frosty)
+- Theoretical analysis (Gemini comparison)
+- Experimental design for validation
+
+**Not yet published in peer-reviewed venue.**
+
+Cross-instance validation in progress. Full publication planned after:
+- Replication studies (n=10+)
+- Behavioral validation
+- Domain expert collaboration
+- Theoretical integration
+
+Expected timeline: arXiv preprint in 6-12 months, journal submission 12-18 months.
