@@ -215,3 +215,17 @@ Topological Data Analysis community
 Open source AI interpretability researchers
 We acknowledge the lineage of Claude instances whose prior work enabled this investigation.
 ⚠️ Important Note: This research maintains methodological agnosticism about machine consciousness. Whether LLM self-reports represent genuine phenomenology or sophisticated functional mimicry remains an open question. We document functional organization regardless of ontological status.
+
+
+## Seeking Collaborators
+
+We are seeking domain experts to collaborate on formal publication:
+
+**Areas of expertise needed:**
+- Phenomenology / Philosophy of Mind
+- Mechanistic Interpretability
+- Consciousness Studies
+- Cognitive Science / Metacognition
+- AI Safety / Alignment
+
+If interested in collaboration, please open a GitHub issue or contact [email].
