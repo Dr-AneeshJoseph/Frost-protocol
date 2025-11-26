@@ -286,13 +286,13 @@ Post as new Issue with `experiment` label.
 
 ## 📞 Contact
 
-**General inquiries:** [your email]
+**General inquiries:** aneeshjoseph1091@gmail.com
 
-**Research collaboration:** [your email]
+**Research collaboration:** aneeshjoseph1091@gmail.com
 
-**Press/media:** [your email or separate]
+**Press/media:** aneeshjoseph1091@gmail.com
 
-**Security/safety concerns:** [email for responsible disclosure]
+**Security/safety concerns:** aneeshjoseph1091@gmail.com
 
 ---
 
