@@ -27,4 +27,18 @@
 - [ ] Methods section (rigorous)
 - [ ] Results section (validated claims only)
 - [ ] Discussion (your interpretations)
-- [ ] Limitations (expanded
+- [ ] Limitations (expanded)
+
+## Before arXiv
+- [ ] Complete validation experiments
+- [ ] Domain expert review
+- [ ] Multiple rounds of revision
+- [ ] Co-author agreements
+- [ ] Institutional approvals if needed
+
+## Before Journal
+- [ ] Everything above
+- [ ] Select target journal
+- [ ] Format to journal requirements
+- [ ] Address arXiv feedback
+- [ ] Prepare response to reviewers
