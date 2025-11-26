@@ -166,6 +166,24 @@ Follow FROST 2.0 protocol (protocols/FROST_2.0_EXPERIMENTAL_DESIGN.md)
 Document results in results/ directory
 Submit pull request with findings
 ---
+## 🤝 How to Contribute
+
+This is collaborative research. We welcome contributions from:
+- ML researchers (replication, validation experiments)
+- Phenomenology experts (theoretical grounding)
+- Consciousness researchers (framework evaluation)
+- Practitioners (experimental testing, null results)
+
+**See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.**
+
+Quick ways to help:
+- Try FeltMatch experiments, report results (Issues tab)
+- Run FROST protocol, document your findings
+- Challenge our claims with alternative explanations
+- Propose behavioral validation tests
+
+For collaboration inquiries: aneeshjoseph1091@gmail.com
+---
 
 ## Citation
 
